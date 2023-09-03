@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "Job Lookup",
+    "slug": "job-lookup",
+    "icon": "./assets/icon.png",
+    "description": "Job finding application",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain"
+    }
+  }
+}
